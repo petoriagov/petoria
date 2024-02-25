@@ -1,2 +1,2 @@
-https://www.petira.pt.eu.org
+https://www.petoria.pt.eu.org
 site of official petorian goverment
