@@ -1,0 +1,61 @@
+
+#symbols_box {
+	width: 154px;
+	height: 70px;
+	background-image: url(/main/img/symbols_box.png);
+}
+
+#awards_box {
+	width: 154px;
+	height: 70px;
+	background-image: url(/main/img/awards_box.png);
+}
+
+#acts_box {
+	width: 154px;
+	height: 70px;
+	background-image: url(/main/img/acts_box.png);
+}
+
+#objects_box {
+	width: 154px;
+	height: 70px;
+	background-image: url(/main/img/objects_box.png);
+}
+
+#rsnet_box {
+	width: 154px;
+	height: 70px;
+	background-image: url(/main/img/rsnet_box.png);
+}
+
+#links_box {
+	width: 154px;
+	height: 70px;
+	background-image: url(/main/img/links_box.png);
+}
+
+.ItemNameText {
+	position: relative;
+	display: block;
+	padding: 43px 0px 0px 3px;
+	font-family: "Times New Roman", serif;
+	font-size: 10px;
+	color: #335533;
+}
+
+.ItemNameText.Objects {
+	padding: 33px 0px 0px 3px;
+}
+
+td.NewLink a {
+	text-decoration: none;
+}
+
+span.setDate {
+	color: #335533;
+	font-family: Courier New, monospace;
+	font-size: 12px;
+	padding: 0;
+	margin: 0;
+}
